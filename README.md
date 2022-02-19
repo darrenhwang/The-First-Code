@@ -1,4 +1,2 @@
 # The-First-Code
-My first code
-
-Hi everybody ! I am a new learner 。
+tools for dialy work!
