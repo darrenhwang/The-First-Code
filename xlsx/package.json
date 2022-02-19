@@ -1,0 +1,16 @@
+{
+  "name": "xlsxtool",
+  "version": "1.0.0",
+  "description": "tool for xlsx",
+  "main": "dealXlsx.js",
+  "scripts": {
+    "test": "hgx"
+  },
+  "author": "hgx",
+  "license": "ISC",
+  "dependencies": {
+    "excel-export": "^0.5.1",
+    "node-xlsx": "^0.21.0",
+    "path": "^0.12.7"
+  }
+}

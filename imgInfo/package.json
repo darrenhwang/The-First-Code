@@ -1,0 +1,14 @@
+{
+  "name": "img",
+  "version": "1.0.0",
+  "description": "img info",
+  "main": "index.js",
+  "scripts": {
+    "test": "hgx"
+  },
+  "author": "hgx",
+  "license": "ISC",
+  "dependencies": {
+    "imageinfo": "^1.0.4"
+  }
+}
